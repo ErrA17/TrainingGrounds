@@ -3,7 +3,7 @@ package com.monarch.apps.vertx.server.messages;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class ClientResponseMessage {
-
+ 
 	private String receivedPayload;
 	private String nanoId;
 
